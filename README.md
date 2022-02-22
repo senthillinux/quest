@@ -4,8 +4,6 @@
 $ git clone repository 
 
 
-$ cd quest
-
 
 $ docker build -t <imagename> .
 
